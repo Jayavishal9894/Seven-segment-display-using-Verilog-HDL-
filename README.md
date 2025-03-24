@@ -1,5 +1,6 @@
 # Seven-Segment Display Driver using Verilog HDL
-
+JAYA VISHAL M
+212223060102
 ## Aim  
 To design and simulate a seven-segment display driver using Verilog HDL, and verify its functionality through a testbench in the Vivado 2023.1 environment. The objective is to implement the logic that converts a 4-bit binary input into the corresponding 7-segment display output for the digits 0 to 9.
 
@@ -67,8 +68,8 @@ end
 endmodule
 ```
 ## Simulated Output
+![image](https://github.com/user-attachments/assets/1e10dcf0-941e-4e44-ade7-087e03b0f0ea)
 
-_____ Keep Simulated output ___________
 
 
 ## Testbench for Seven-Segment Display
